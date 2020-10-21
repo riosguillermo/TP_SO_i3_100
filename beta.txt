@@ -42,3 +42,25 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX packets 3927  bytes 395722 (395.7 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
+Espil Ezequiel Matias: 15:11 hs
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.37  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 fe80::244e:4a08:ba45:bbd4  prefixlen 64  scopeid 0x20<link>
+        inet6 2800:810:4f6:989a:a676:f16f:9eea:a55c  prefixlen 64  scopeid 0x0<global>
+        inet6 2800:810:4f6:989a::1000  prefixlen 128  scopeid 0x0<global>
+        inet6 2800:810:4f6:989a:656a:3599:ea4:7dab  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:dc:ea:fe  txqueuelen 1000  (Ethernet)
+        RX packets 158  bytes 17072 (17.0 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 93  bytes 13690 (13.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 145  bytes 12687 (12.6 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 145  bytes 12687 (12.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
