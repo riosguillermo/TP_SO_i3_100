@@ -1,0 +1,13 @@
+Responde BETA:
+
+a-¿Como queda El master después de estos cambios?
+-Con los archivos: 
+beta.txt     CPUBeta.txt   datos.txt  respuesta_I3_Equipo100.txt
+CPUAlfa.txt  CPUGamma.txt  README.md
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+-Si
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+git checkout main
+git merge origin/VarelaVargas
