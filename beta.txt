@@ -17,3 +17,28 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 142  bytes 11428 (11.4 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+Varela Vargas Leandro: 09:23 hs
+
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.20  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:810:431:a61:184f:a85c:3f49:6287  prefixlen 64  scopeid 0x0<global>
+        inet6 2800:810:431:a61::a  prefixlen 128  scopeid 0x0<global>
+        inet6 2800:810:431:a61:9098:4e73:3eb6:fea1  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::ab55:243c:e449:836b  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:86:48:36  txqueuelen 1000  (Ethernet)
+        RX packets 20702  bytes 25836791 (25.8 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 10841  bytes 1246497 (1.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 3927  bytes 395722 (395.7 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 3927  bytes 395722 (395.7 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
