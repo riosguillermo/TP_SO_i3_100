@@ -1,0 +1,19 @@
+Rios Guillermo: 21:35 hs
+
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::d4ca:89d8:c744:19b3  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:f4:e4:9a  txqueuelen 1000  (Ethernet)
+        RX packets 66  bytes 14160 (14.1 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 98  bytes 11128 (11.1 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 142  bytes 11428 (11.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 142  bytes 11428 (11.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
