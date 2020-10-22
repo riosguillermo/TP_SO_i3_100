@@ -15,3 +15,20 @@ b-¿Beta pudo ver todos los cambios que se realizaron?
 c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
 git checkout main
 git merge origin/VarelaVargas
+
+Responde GAMMA:
+
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+
+Responde ALFA:
+
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git checkout Rios
+git pull
+"se agrega informacion solicitada del punto 8 al archivo generado por Beta: Nombre, Apellido, info de retorno de ifconfig y la hora"
+git add .
+git status
+git commit -m "Punto 8 terminado"
+git push -u origin Rios
